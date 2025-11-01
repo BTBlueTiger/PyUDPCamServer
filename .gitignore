@@ -1,0 +1,30 @@
+# JetBrains / PyCharm IDE files
+.idea/
+*.iml
+
+# Python build artifacts and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+pip-wheel-metadata/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+
+# Log files
+*.log
+
+# Local environment variables
+.env
+
+# Chrome user data folder found in project
+# This is likely an error and should not be in version control
+C:\Users\AppData\Local\Google\Chrome\User Data\Default/
